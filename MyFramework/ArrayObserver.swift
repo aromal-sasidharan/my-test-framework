@@ -10,6 +10,9 @@ import Foundation
 import RxSwift
 
 public class ArrayObserver {
+    public init() {
+        
+    }
     public func getObserver() -> Observable<[Int]> {
         return Observable.deferred { () -> Observable<[Int]> in
             return .just([1,2,3,4])
