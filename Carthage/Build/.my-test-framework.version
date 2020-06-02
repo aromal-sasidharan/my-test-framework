@@ -1,0 +1,10 @@
+{
+  "commitish" : "1.0",
+  "iOS" : [
+    {
+      "name" : "MyFramework",
+      "hash" : "9db0e88e60b78bd8907471022947b8b93146d97104be317362b63c1047ade220",
+      "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+    }
+  ]
+}
